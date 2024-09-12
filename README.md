@@ -3,10 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Basem, a full-time Frontend developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Rodal](https://github.com/Basemsisy/rodal)  
+### <div align="center">I'm Basem, a full-time Frontend developer 👨‍💻 working remotely since 2019 🚀</div>    
   
 
 - 🌱 I’m currently learning Docker and AWS  
